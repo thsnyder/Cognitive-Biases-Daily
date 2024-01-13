@@ -1,0 +1,353 @@
+{
+  "cognitiveBiases": [
+    {
+      "BiasCount": 1,
+      "BiasTitle": "Confirmation Bias",
+      "BiasDescription": "Favoring information that confirms existing beliefs.",
+      "BiasAuthor": "Peter Wason",
+      "WikiLink": "https://en.wikipedia.org/wiki/Confirmation_bias"
+    },
+    {
+      "BiasCount": 2,
+      "BiasTitle": "Anchoring Bias",
+      "BiasDescription": "Relying too heavily on the first piece of information.",
+      "BiasAuthor": "Amos Tversky and Daniel Kahneman",
+      "WikiLink": "https://en.wikipedia.org/wiki/Anchoring_(cognitive_bias)"
+    },
+    {
+      "BiasCount": 3,
+      "BiasTitle": "Dunning-Kruger Effect",
+      "BiasDescription": "Overestimating one's ability in a specific area.",
+      "BiasAuthor": "David Dunning and Justin Kruger",
+      "WikiLink": "https://en.wikipedia.org/wiki/Dunning%E2%80%93Kruger_effect"
+    },
+    {
+      "BiasCount": 4,
+      "BiasTitle": "Hindsight Bias",
+      "BiasDescription": "Believing an event was predictable after it has occurred.",
+      "BiasAuthor": "Baruch Fischhoff",
+		  "WikiLink": "https://en.wikipedia.org/wiki/Hindsight_bias"
+    },
+    {
+      "BiasCount": 5,
+      "BiasTitle": "Availability Heuristic",
+      "BiasDescription": "Overestimating the importance of information that is available to us.",
+      "BiasAuthor": "Amos Tversky and Daniel Kahneman",
+		  "WikiLink": "https://en.wikipedia.org/wiki/Availability_heuristic"
+    },
+    {
+      "BiasCount": 6,
+      "BiasTitle": "Optimism Bias",
+      "BiasDescription": "Believing that we are less at risk of experiencing a negative event compared to others.",
+      "BiasAuthor": "Neil Weinstein",
+		  "WikiLink": "https://en.wikipedia.org/wiki/Optimism_bias"
+    },
+    {
+      "BiasCount": 7,
+      "BiasTitle": "Fundamental Attribution Error",
+      "BiasDescription": "Overemphasizing personal characteristics and ignoring situational factors when judging others' behavior.",
+      "BiasAuthor": "Lee Ross",
+		  "WikiLink": "https://en.wikipedia.org/wiki/Fundamental_attribution_error"
+    },
+    {
+      "BiasCount": 8,
+      "BiasTitle": "Sunk Cost Fallacy",
+      "BiasDescription": "Continuing a behavior as a result of previously invested resources.",
+      "BiasAuthor": "Popularized by Richard Thaler",
+      "WikiLink": "https://en.wikipedia.org/wiki/Sunk_cost#Fallacy_effect"
+    },
+    {
+      "BiasCount": 9,
+      "BiasTitle": "Bandwagon Effect",
+      "BiasDescription": "Doing something primarily because others are doing it.",
+      "BiasAuthor": "Broadly studied in psychology",
+      "WikiLink": "https://en.wikipedia.org/wiki/Bandwagon_effect"
+    },
+    {
+      "BiasCount": 10,
+      "BiasTitle": "In-group Bias",
+      "BiasDescription": "Favoring one's own group over external groups.",
+      "BiasAuthor": "Henri Tajfel",
+      "WikiLink": "https://en.wikipedia.org/wiki/In-group_favoritism"
+    },
+    {
+      "BiasCount": 11,
+      "BiasTitle": "Bystander Effect",
+      "BiasDescription": "The more observers, the less likely people are to help a person in distress.",
+      "BiasAuthor": "John Darley and Bibb Latané",
+      "WikiLink": "https://en.wikipedia.org/wiki/Bystander_effect"
+    },
+    {
+      "BiasCount": 12,
+      "BiasTitle": "Halo Effect",
+      "BiasDescription": "Overall impression of a person influences how we feel and think about their character.",
+      "BiasAuthor": "Edward Thorndike",
+      "WikiLink": "https://en.wikipedia.org/wiki/Halo_effect"
+    },
+    {
+      "BiasCount": 13,
+      "BiasTitle": "Choice-Supportive Bias",
+      "BiasDescription": "Remembering one's choices as better than they actually were.",
+      "BiasAuthor": "Jerry M. Burger",
+      "WikiLink": "https://en.wikipedia.org/wiki/Choice-supportive_bias"
+    },
+    {
+      "BiasCount": 14,
+      "BiasTitle": "Clustering Illusion",
+      "BiasDescription": "Seeing patterns in random events.",
+      "BiasAuthor": "Thomas Gilovich",
+      "WikiLink": "https://en.wikipedia.org/wiki/Clustering_illusion"
+    },
+    {
+      "BiasCount": 15,
+      "BiasTitle": "Negativity Bias",
+      "BiasDescription": "The tendency to pay more attention to and give more weight to negative rather than positive experiences or other kinds of information.",
+      "BiasAuthor": "Roy F. Baumeister",
+      "WikiLink": "https://en.wikipedia.org/wiki/Negativity_bias"
+    },
+    {
+      "BiasCount": 16,
+      "BiasTitle": "Recency Bias",
+      "BiasDescription": "Placing more importance on the most recent event.",
+      "BiasAuthor": "Broadly studied in psychology",
+      "WikiLink": "https://en.wikipedia.org/wiki/Recency_bias"
+    },
+    {
+      "BiasCount": 17,
+      "BiasTitle": "Actor-Observer Bias",
+      "BiasDescription": "Attributing one's own actions to external causes while attributing other people's behaviors to internal causes.",
+      "BiasAuthor": "Jones and Nisbett",
+      "WikiLink": "https://en.wikipedia.org/wiki/Actor–observer_asymmetry"
+    },
+    {
+      "BiasCount": 18,
+      "BiasTitle": "Curse of Knowledge",
+      "BiasDescription": "When better-informed people find it extremely difficult to think about problems from the perspective of lesser-informed people.",
+      "BiasAuthor": "First described by Colin Camerer, George Loewenstein, and Martin Weber",
+      "WikiLink": "https://en.wikipedia.org/wiki/Curse_of_knowledge"
+    },
+    {
+      "BiasCount": 19,
+      "BiasTitle": "False Consensus Effect",
+      "BiasDescription": "Overestimating how much other people agree with us.",
+      "BiasAuthor": "Ross, Greene, and House",
+      "WikiLink": "https://en.wikipedia.org/wiki/False_consensus_effect"
+    },
+    {
+      "BiasCount": 20,
+      "BiasTitle": "Forer Effect (Barnum Effect)",
+      "BiasDescription": "Believing that vague, general statements are personally meaningful.",
+      "BiasAuthor": "Bertram R. Forer",
+      "WikiLink": "https://en.wikipedia.org/wiki/Barnum_effect"
+    },
+    {
+      "BiasCount": 21,
+      "BiasTitle": "Gambler’s Fallacy",
+      "BiasDescription": "Believing that 'runs' occur to statistically independent phenomena such as roulette wheel spins.",
+      "BiasAuthor": "Amos Tversky and Daniel Kahneman",
+      "WikiLink": "https://en.wikipedia.org/wiki/Gambler%27s_fallacy"
+    },
+    {
+      "BiasCount": 22,
+      "BiasTitle": "Hyperbolic Discounting",
+      "BiasDescription": "Valuing immediate rewards more highly than future rewards.",
+      "BiasAuthor": "Richard Thaler",
+      "WikiLink": "https://en.wikipedia.org/wiki/Hyperbolic_discounting"
+    },
+    {
+      "BiasCount": 23,
+      "BiasTitle": "Illusion of Control",
+      "BiasDescription": "Overestimating one’s degree of influence over other external events.",
+      "BiasAuthor": "Ellen Langer",
+      "WikiLink": "https://en.wikipedia.org/wiki/Illusion_of_control"
+    },
+    {
+      "BiasCount": 24,
+      "BiasTitle": "Illusory Superiority",
+      "BiasDescription": "Overestimating one's positive qualities and underestimating negative ones.",
+      "BiasAuthor": "Popularized by Justin Kruger and David Dunning",
+      "WikiLink": "https://en.wikipedia.org/wiki/Illusory_superiority"
+    },
+    {
+      "BiasCount": 25,
+      "BiasTitle": "Impact Bias",
+      "BiasDescription": "Overestimating the enduring impact of emotion-causing events.",
+      "BiasAuthor": "Daniel Gilbert",
+      "WikiLink": "https://en.wikipedia.org/wiki/Impact_bias"
+    },
+    {
+      "BiasCount": 26,
+      "BiasTitle": "Information Bias",
+      "BiasDescription": "The tendency to seek information even when it cannot affect action.",
+      "BiasAuthor": "Broadly studied in decision theory",
+      "WikiLink": "https://en.wikipedia.org/wiki/Information_bias_(psychology)"
+    },
+    {
+      "BiasCount": 27,
+      "BiasTitle": "Inter-group Bias",
+      "BiasDescription": "Viewing members of one's own group more favorably than members of other groups.",
+      "BiasAuthor": "Henri Tajfel",
+      "WikiLink": "https://en.wikipedia.org/wiki/In-group_favoritism"
+    },
+    {
+      "BiasCount": 28,
+      "BiasTitle": "Just-World Hypothesis",
+      "BiasDescription": "Believing that actions always bring morally fair and fitting consequences.",
+      "BiasAuthor": "Melvin Lerner",
+      "WikiLink": "https://en.wikipedia.org/wiki/Just-world_hypothesis"
+    },
+    {
+      "BiasCount": 29,
+      "BiasTitle": "Loss Aversion",
+      "BiasDescription": "Preferring to avoid losses rather than acquiring equivalent gains.",
+      "BiasAuthor": "Daniel Kahneman and Amos Tversky",
+      "WikiLink": "https://en.wikipedia.org/wiki/Loss_aversion"
+    },
+    {
+      "BiasCount": 30,
+      "BiasTitle": "Mere Exposure Effect",
+      "BiasDescription": "Developing a preference for things merely because they are familiar.",
+      "BiasAuthor": "Robert Zajonc",
+      "WikiLink": "https://en.wikipedia.org/wiki/Mere-exposure_effect"
+    },
+    {
+      "BiasCount": 31,
+      "BiasTitle": "Narrative Fallacy",
+      "BiasDescription": "Creating a story or pattern of events when none should exist.",
+      "BiasAuthor": "Nassim Nicholas Taleb",
+      "WikiLink": "https://en.wikipedia.org/wiki/The_Black_Swan:_The_Impact_of_the_Highly_Improbable"
+    },
+    {
+      "BiasCount": 32,
+      "BiasTitle": "Normalcy Bias",
+      "BiasDescription": "Underestimating the possibility of a disaster and its effects.",
+      "BiasAuthor": "Unknown",
+      "WikiLink": "https://en.wikipedia.org/wiki/Normalcy_bias"
+    },
+    {
+      "BiasCount": 33,
+      "BiasTitle": "Anthropocentric Thinking",
+      "BiasDescription": "The tendency to reason about unfamiliar biological species or processes by analogy to humans.",
+      "BiasAuthor": "Unknown",
+      "WikiLink": "https://en.wikipedia.org/wiki/Anthropocentrism#Cognitive_psychology"
+    },
+    {
+      "BiasCount": 34,
+      "BiasTitle": "Anthropomorphism",
+      "BiasDescription": "The characterization of animals, objects, and abstract concepts as possessing human traits, emotions, or intentions.",
+      "BiasAuthor": "Fritz Heider and Marianne Simmel",
+      "WikiLink": "https://en.wikipedia.org/wiki/Anthropomorphism#Psychology"
+    },
+    {
+      "BiasCount": 35,
+      "BiasTitle": "Baader–Meinhof Phenomenon or Frequency Illusion",
+      "BiasDescription": "Once something has been noticed then every instance of that thing is noticed, leading to the belief it has a high frequency of occurrence.",
+      "BiasAuthor": "Terry Mullen",
+      "WikiLink": "https://en.wikipedia.org/wiki/Frequency_illusion"
+    },
+    {
+      "BiasCount": 36,
+      "BiasTitle": "Implicit-Association",
+      "BiasDescription": "The speed with which people can match words depends on how closely they are associated.",
+      "BiasAuthor": "Anthony Greenwald, Debbie McGhee, and Jordan Schwartz",
+      "WikiLink": "https://en.wikipedia.org/wiki/Implicit-association_test"
+    },
+    {
+      "BiasCount": 37,
+      "BiasTitle": "Salience Bias",
+      "BiasDescription": "Predisposes individuals to focus on or attend to items, information, or stimuli that are more prominent, visible, or emotionally striking.",
+      "BiasAuthor": "Shiffrin Schneider",
+      "WikiLink": "https://en.wikipedia.org/wiki/Salience_(neuroscience)#Salience_bias"
+    },
+    {
+      "BiasCount": 38,
+      "BiasTitle": "Selection Bias",
+      "BiasDescription": "Where members of a statistical sample are not chosen completely at random, which leads to the sample not being representative of the population.",
+      "BiasAuthor": "Unknown",
+      "WikiLink": "https://en.wikipedia.org/wiki/Selection_bias"
+    },
+    {
+      "BiasCount": 39,
+      "BiasTitle": "Survivorship Bias",
+      "BiasDescription": "Concentrating on the people or things that survived some process and inadvertently overlooking those that did not because of their lack of visibility.",
+      "BiasAuthor": "Unknown",
+      "WikiLink": "https://en.wikipedia.org/wiki/Survivorship_bias"
+    },
+    {
+      "BiasCount": 40,
+      "BiasTitle": "Well Travelled Road Effect",
+      "BiasDescription": "Travellers will estimate the time taken to traverse routes differently depending on their familiarity with the route. Frequently travelled routes are assessed as taking a shorter time than unfamiliar routes.",
+      "BiasAuthor": "Daniel Kahneman and Amos Tversky",
+      "WikiLink": "https://en.wikipedia.org/wiki/Well_travelled_road_effect"
+    },
+    {
+      "BiasCount": 41,
+      "BiasTitle": "Effort Justification or IKEA Effect",
+      "BiasDescription": "Tendency to attribute the value of an outcome they put effort into achieving as greater than the objective value of the outcome.",
+      "BiasAuthor": "Leon Festinger",
+      "WikiLink": "https://en.wikipedia.org/wiki/Effort_justification"
+    },
+    {
+      "BiasCount": 42,
+      "BiasTitle": "Ben Franklin Effect",
+      "BiasDescription": "People like someone more after doing a favor for them.",
+      "BiasAuthor": "Jecker and Landy",
+      "WikiLink": "https://en.wikipedia.org/wiki/Ben_Franklin_effect"
+    },
+    {
+      "BiasCount": 43,
+      "BiasTitle": "Backfire Effect",
+      "BiasDescription": "Tendency to react to disconfirming evidence by strengthening one's previous beliefs.",
+      "BiasAuthor": "Leon Festinger",
+      "WikiLink": "https://en.wikipedia.org/wiki/Belief_perseverance"
+    },
+    {
+      "BiasCount": 44,
+      "BiasTitle": "Congruence Bias",
+      "BiasDescription": "Tendency to test hypotheses exclusively through direct testing, instead of testing possible alternative hypotheses.",
+      "BiasAuthor": "Peter Wason",
+      "WikiLink": "https://en.wikipedia.org/wiki/Congruence_bias"
+    },
+    {
+      "BiasCount": 45,
+      "BiasTitle": "Experimenter's or Observer Bias",
+      "BiasDescription": "Tendency for experimenters to believe, certify, and publish data that agree with their expectations for the outcome of an experiment, and to disbelieve, discard, or downgrade the corresponding weightings for data that appear to conflict with those expectations.",
+      "BiasAuthor": "Oskar Pfungst",
+      "WikiLink": "https://en.wikipedia.org/wiki/Observer_bias"
+    },
+    {
+      "BiasCount": 46,
+      "BiasTitle": "Observer-Expectancy Effect",
+      "BiasDescription": "When a researcher expects a given result and therefore unconsciously manipulates an experiment or misinterprets data in order to find it.",
+      "BiasAuthor": "Oskar Pfungst",
+      "WikiLink": "https://en.wikipedia.org/wiki/Observer-expectancy_effect"
+    },
+    {
+      "BiasCount": 47,
+      "BiasTitle": "Selective Perception",
+      "BiasDescription": "Tendency for expectations to affect perception.",
+      "BiasAuthor": "Hastorf and Cantril",
+      "WikiLink": "https://en.wikipedia.org/wiki/Selective_perception"
+    },
+    {
+      "BiasCount": 48,
+      "BiasTitle": "Semmelweis Reflex",
+      "BiasDescription": "Tendency to reject new evidence that contradicts a paradigm.",
+      "BiasAuthor": "Ignaz Semmelweis",
+      "WikiLink": "https://en.wikipedia.org/wiki/Semmelweis_reflex"
+    },
+    {
+      "BiasCount": 49,
+      "BiasTitle": "Bias Blind Spot",
+      "BiasDescription": "Tendency to see oneself as less biased than other people, or to be able to identify more cognitive biases in others than in oneself.",
+      "BiasAuthor": "Emily Pronin, Daniel Lin, and Lee Ross",
+      "WikiLink": "https://en.wikipedia.org/wiki/Bias_blind_spot"
+    },
+    {
+      "BiasCount": 50,
+      "BiasTitle": "False Uniqueness Bias",
+      "BiasDescription": "Tendency of people to see their projects and themselves as more singular than they actually are.",
+      "BiasAuthor": "Snyder and Shneckel",
+      "WikiLink": "https://en.wikipedia.org/wiki/False-uniqueness_effect"
+    }
+] }
